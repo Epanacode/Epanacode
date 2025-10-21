@@ -1,0 +1,29 @@
+name: ☕ Daily Coffee Counter
+
+on:
+  schedule:
+    - cron: "0 8 * * *"  # هر روز ساعت 8 صبح UTC اجرا میشه
+  workflow_dispatch:      # برای اجرای دستی هم اجازه بده
+
+jobs:
+  update-coffee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Run update script
+        run: python update_coffee.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "☕ Updated daily coffee counter"
+          git push
