@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="[https://i.ibb.co/YhtdrtL/banner.gif](https://github.com/Epanacode/Epanacode/blob/main/ChatGPT%20Image%20Oct%2021,%202025,%2009_42_07%20AM.png?raw=true)" alt="banner" width="100%" />
+  <img src="https://github.com/Epanacode/Epanacode/blob/main/assets/ChatGPT%20Image%20Oct%2021,%202025,%2009_42_07%20AM.png?raw=true" alt="banner" width="100%" />
 </p>
 
 <!-- 👋 Introduction -->
