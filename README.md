@@ -1,11 +1,18 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/YhtdrtL/banner.gif" alt="banner" width="100%" />
+  <img src="[https://i.ibb.co/YhtdrtL/banner.gif](https://github.com/Epanacode/Epanacode/blob/main/ChatGPT%20Image%20Oct%2021,%202025,%2009_42_07%20AM.png?raw=true)" alt="banner" width="100%" />
 </p>
 
 <!-- 👋 Introduction -->
 <h2 align="center">Hi there 👋 I'm <strong>Epanacode</strong></h2>
 <h4 align="center">Python Developer | Django | Telegram Bot Developer</h4>
+
+---
+
+### ☕ Daily Coffee Counter
+Every day I visit GitHub, I enjoy a cup of coffee!
+
+**Today's coffee count:** ☕ 1
 
 ---
 
@@ -41,24 +48,21 @@ Currently sharpening my backend and automation skills to build smarter apps.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram_Bots-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%">
-</p>
 
 ---
 
-### 🚀 My Projects
-- 🔹 Coming soon: Personal Dashboard App (Desktop + Notes + Calculator)
-- 🔹 Django Contact Manager CLI → Web Conversion
-- 🔹 Telegram Game Bot (Connect Four / XO / more...)
+### 🚀 Coming SOON projects
+- 🔹 1️⃣ Personal Dashboard App (Desktop + Notes + Calculator)
+- 🔹 2️⃣ Django Contact Manager 
+- 🔹 3️⃣ Telegram Game Bot (Connect Four / XO / more...)
 
 ---
 
-### 🕶️ Fun Fact
-I break things just to rebuild them cleaner 😎
+### 🍃
+crazy programmer 🙌
