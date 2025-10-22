@@ -50,8 +50,7 @@ Currently sharpening my backend and automation skills to build smarter apps.
   <img src="https://img.shields.io/badge/Telegram_Bots-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+
 </p>
 
 
